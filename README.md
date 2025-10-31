@@ -1,13 +1,9 @@
-# Linux-File-Management
+# Linux-File-Management  🐧
 A Simple guide to managing files and directories in Linux with examples and explanation.
-
-# Linux File Management 🐧
-
-A simple guide to managing files and directories in Linux with examples and explanations.
 
 ---
 
-##Basic Commands
+#Basic Commands
 
 | Command | Description | Example |
 |----------|--------------|----------|
@@ -22,7 +18,7 @@ A simple guide to managing files and directories in Linux with examples and expl
 
 ---
 
-##File Permissions
+#File Permissions
 
 | Command | Description | Example |
 |----------|--------------|----------|
@@ -31,7 +27,7 @@ A simple guide to managing files and directories in Linux with examples and expl
 
 ---
 
-##Tips
+#Tips
 
 - Use `sudo` only when necessary.
 - Always double-check before running `rm -r`.
@@ -40,5 +36,5 @@ A simple guide to managing files and directories in Linux with examples and expl
 
 ---
 
-##Author
+#Author
 Created by **GodFather**  
